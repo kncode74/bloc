@@ -1,4 +1,4 @@
-# state_bloc
+# Todo list app on BLOC state management 📦
 
 A new Flutter project.
 
