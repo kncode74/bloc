@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "task": "Practice Defense Against the Dark Arts",
+    "status": "completed",
+    "priority": "high",
+    "dueDate": "2025-01-20",
+    "notes": "Focus on Expelliarmus spell",
+    "tags": [
+      "DADA",
+      "practice"
+    ],
+    "imageUrl": "https://s.isanook.com/mv/0/ui/16/80681/2a2c7427ea4e1a009e76d90805ec6b12_1536315935.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hermione Granger",
+    "task": "Read about Polyjuice Potion",
+    "status": "in_progress",
+    "priority": "medium",
+    "dueDate": "2025-01-22",
+    "notes": "Check details in Advanced Potion Making book",
+    "tags": [
+      "potions",
+      "research"
+    ],
+    "imageUrl": "https://becommon.co/wp-content/uploads/2020/08/body_harrypotter_21.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ron Weasley",
+    "task": "Prepare for Wizard Chess tournament",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2025-01-25",
+    "notes": "Practice opening strategies",
+    "tags": [
+      "chess",
+      "tournament"
+    ],
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxm2Z5mwQ1iKf6K3_SncvdrqCRaXJiNNWPsw&s"
+  },
+  {
+    "id": 4,
+    "name": "Draco Malfoy",
+    "task": "Attend Potions class",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2025-01-21",
+    "notes": "Focus on brewing Felix Felicis",
+    "tags": [
+      "potions",
+      "class"
+    ],
+    "imageUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/Draco-Malfoy-in-Harry-Potter-and-the-Chamber-of-Secrets.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Neville Longbottom",
+    "task": "Practice Herbology project",
+    "status": "in_progress",
+    "priority": "high",
+    "dueDate": "2025-01-23",
+    "notes": "Study the growth of Mandrakes",
+    "tags": [
+      "herbology",
+      "project"
+    ],
+    "imageUrl": "https://images.bauerhosting.com/legacy/media/609b/d49f/dcb2/f0e2/a35e/6c97/matthew-lewis-neville-longbottom-now.png?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Ginny Weasley",
+    "task": "Practice Quidditch moves",
+    "status": "in_progress",
+    "priority": "medium",
+    "dueDate": "2025-01-25",
+    "notes": "Improve flying skills and agility",
+    "tags": [
+      "quidditch",
+      "practice"
+    ],
+    "imageUrl": "https://i.pinimg.com/736x/b7/9a/ae/b79aae48fe4877c3cd2a8bf338fe687f.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lord Voldemort",
+    "task": "Search for Horcruxes",
+    "status": "in_progress",
+    "priority": "high",
+    "dueDate": "2025-02-01",
+    "notes": "Track down Harry Potter",
+    "tags": [
+      "dark wizard",
+      "horcruxes"
+    ],
+    "imageUrl": "https://i.pinimg.com/736x/41/6b/07/416b07bfab7e403d2bb9909a152b0232.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Luna Lovegood",
+    "task": "Study magical creatures",
+    "status": "in_progress",
+    "priority": "low",
+    "dueDate": "2025-01-30",
+    "notes": "Research the Crumple-Horned Snorkack",
+    "tags": [
+      "creatures",
+      "study"
+    ],
+    "imageUrl": "https://i.pinimg.com/736x/ca/c0/bd/cac0bd8c1da09ed214c091b21d174243.jpg"
+  }
+]
